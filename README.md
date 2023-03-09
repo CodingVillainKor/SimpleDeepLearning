@@ -7,6 +7,6 @@ jupyter notebook 단위로 project 구현 / CodingVillain 채널에서 각각에
     https://arxiv.org/pdf/2006.11239.pdf
     https://www.youtube.com/watch?v=svSQhYGKk0Q
 
-### 1. pi_digit_estimation_GRU.ipynb : π 패턴 예측
+### 2. pi_digit_estimation_GRU.ipynb : π 패턴 예측
     될 리가 있나
     https://youtu.be/kdmrlMAaCiA
