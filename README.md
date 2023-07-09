@@ -11,12 +11,13 @@ Youtube: [https://www.youtube.com/watch?v=svSQhYGKk0Q](https://www.youtube.com/w
     Dataset: CIFAR-10
 
 ### 2. pi_digit_estimation_GRU.ipynb : π 패턴 예측
-[https://youtu.be/kdmrlMAaCiA](https://youtu.be/kdmrlMAaCiA))
+[https://youtu.be/kdmrlMAaCiA](https://youtu.be/kdmrlMAaCiA)
 
     될 리가 있나
 
 ### 3. Neural_ODE.ipynb : official code 약간 수정
-Paper: [https://arxiv.org/pdf/1806.07366.pdf](https://arxiv.org/pdf/1806.07366.pdf))<br />
+Paper: [https://arxiv.org/pdf/1806.07366.pdf](https://arxiv.org/pdf/1806.07366.pdf)<br />
+Official github(Reference): [https://github.com/rtqichen/torchdiffeq](https://github.com/rtqichen/torchdiffeq)
 Youtube: TBD
 
     출력 코드 정리
