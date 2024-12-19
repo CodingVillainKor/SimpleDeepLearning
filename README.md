@@ -31,3 +31,10 @@ paper: [https://arxiv.org/pdf/1312.6114.pdf](https://arxiv.org/pdf/1312.6114.pdf
     AE with z-regularization: loss = reconstruction loss + z.abs().mean()
     VAE: loss = reconstruction loss + kl divergence
     Dataset: MNIST dataset
+
+### 5. flowmatching.ipynb : flow matching for generative modeling
+Paper: [https://arxiv.org/pdf/2210.02747](https://arxiv.org/pdf/2210.02747) <br />
+
+    실험적인 세부사항(Exponential Moving Average 등)은 제외
+    - train과 sample 함수가 핵심
+    - Dataset: MNIST
